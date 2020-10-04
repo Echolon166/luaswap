@@ -1,12 +1,11 @@
-# LuaSwap 🌾
+# Arweave port of LuaSwap 🌾
 
 Multi-chain liquidity protocol for emerging token projects with no seed investment, founder’s fees, or pre-mining
 
 https://luaswap.org | 
 [Medium: Introducing LuaSwap.org](https://medium.com/luaswap/introducing-luaswap-org-7e6ff38beefc)
 
-
-
+Arweave port of LuaSwap is available on the permaweb: [LuaSwap on Permaweb](https://arweave.net/X9_B3PyS8CBjtSv9-HS9u9mzNA14KxP_ML2ZYMObESM)
 
 Feel free to read the code. More details coming soon.
 
